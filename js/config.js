@@ -5,7 +5,7 @@
    ========================================================= */
 const CONFIG = {
   SUPABASE_URL: 'https://fcojrcltfmtasoxsrqik.supabase.co',
-  SUPABASE_KEY: 'ISI_ANON_PUBLIC_KEY',
+  SUPABASE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZjb2pyY2x0Zm10YXNveHNycWlrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEyMDQxMTUsImV4cCI6MjEwNjc4MDExNX0.graE6fk2r9VVX1ORYMsT2tWX93e5adw65VdQtPE0vXg',
   BUCKET_TUGAS: 'tugas',
   BUCKET_MATERI: 'materi',
   MAX_FILE_MB: 20,        // batas unggah tugas (pengunjung)
